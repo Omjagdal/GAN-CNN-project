@@ -29,3 +29,20 @@ Used after GAN training
 Two usage modes:
 Option A: Attribute prediction (Smile, Gender, Glasses)
 Option B: Feature embeddings for perceptual metrics (FID)
+
+📊 Use Cases
+
+Face synthesis research
+GAN understanding & experimentation
+Facial attribute analysis
+Feature-based similarity comparison
+Resume & academic projects
+
+
+🛠️ Tech Stack
+Python
+PyTorch / TensorFlow
+OpenCV
+NumPy
+Pretrained VGG16
+Matplotlib
