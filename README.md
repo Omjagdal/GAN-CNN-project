@@ -314,13 +314,3 @@ opencv-python>=4.5.0
 - [FID Score Paper](https://arxiv.org/abs/1706.08500)
 - [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
-## 👤 Author
-Your Name - your.email@example.com
-
-## 📄 License
-MIT License
-
-## 🙏 Acknowledgments
-- CelebA Dataset creators
-- TensorFlow & Keras teams
-- GANs research community
