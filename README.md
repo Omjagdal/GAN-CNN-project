@@ -308,7 +308,4 @@ Pillow>=9.0.0
 opencv-python>=4.5.0
 ```
 
-## 📚 References
-- [GAN Paper (Goodfellow et al., 2014)](https://arxiv.org/abs/1406.2661)
-- [VGG16 Paper](https://arxiv.org/abs/1409.1556)
 
