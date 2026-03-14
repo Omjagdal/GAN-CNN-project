@@ -1,4 +1,4 @@
-# 🎭 GAN-Based Face Generation with Attribute Prediction
+#  GAN-Based Face Generation with Attribute Prediction
 
 ## 📌 Project Overview
 This project implements a **Generative Adversarial Network (GAN)** for generating realistic human faces and includes two evaluation approaches:
